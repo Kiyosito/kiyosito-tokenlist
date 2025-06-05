@@ -1,0 +1,19 @@
+{
+  "name": "Kiyosito Token List",
+  "timestamp": "2025-06-04T23:40:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xF22F0cBaB3C9143b5051E02FE74A451Fe10E1a13",
+      "name": "Kiyosito Token",
+      "symbol": "ITO",
+      "decimals": 18,
+      "logoURI": "https://kiyosito.io/assets/kiyosito_logo.png"
+    }
+  ]
+}
